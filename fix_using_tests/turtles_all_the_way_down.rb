@@ -14,4 +14,5 @@ def turtle_traits(turtles)
       puts trait
     end
   end
+  turtles
 end
