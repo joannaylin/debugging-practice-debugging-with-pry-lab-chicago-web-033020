@@ -13,7 +13,7 @@ end
 
 def greet_crew (crew)
   crew.each { |name|
-    puts "Hello #{name}."
+    prints "Hello #{name}."
   }
 end
 
