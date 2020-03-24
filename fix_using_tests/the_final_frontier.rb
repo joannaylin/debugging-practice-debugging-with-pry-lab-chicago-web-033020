@@ -12,8 +12,7 @@ def crew
 end
 
 def greet_crew (crew)
-  crew.each { |name|
-    print "Hello #{name}.\n"
+  crew.each { |crew_member| "Hello #{crew_member}."
   }
 end
 
