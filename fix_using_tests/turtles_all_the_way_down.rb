@@ -10,7 +10,7 @@ end
 
 def turtle_traits(turtles)
   turtles.map do |turtle|
-    prints turtle[:traits]
+    print turtle[:traits]
     end
   turtles
 end
