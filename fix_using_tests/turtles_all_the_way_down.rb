@@ -12,6 +12,5 @@ def turtle_traits(turtles)
   turtles.map do |turtle|
     puts turtle[:traits]
     end
-  end
   turtles
 end
